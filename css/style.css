@@ -9,6 +9,18 @@
 body{
     background-color: aliceblue;
 }
+
+
+.container{
+    min-height: 300px;
+    width: 50%;
+    margin: 5vh auto;
+
+    background-color: white;
+    border: 1px solid slategray;
+    border-radius: 30px;
+}
 #output-text{
+    text-align: center;
     color: darkslategray;
 }
